@@ -1,0 +1,247 @@
+campaign_name,actions,object_type
+htc_one_1GB_21-30_allclusters,[],LPP
+allclusters_21-30_htc_one_2GB,"[{'value': 17, 'action_type': 'comment'}]",VIDEO
+21-30_htc_one_2GB_limited_time_offer_allclusters,[],LPP
+21-30_iPhone_6/6+_all_other_devices_allclusters,[],VIDEO
+iphone5S_21-30_allclusters,[],VIDEO
+allclusters_iphone_6/6+_AT&T_21-30,"[{'value': 15, 'action_type': 'comment'}, {'value': 14, 'action_type': 'share'}, {'value': 4, 'action_type': 'like'}]",VIDEO
+iphone_6/6+_Vzn_allclusters_21-30,"[{'value': 20, 'action_type': 'like'}]",LPP
+allclusters_21-30_nokia_lumia_v3,"[{'value': 6, 'action_type': 'video_view'}, {'value': 7, 'action_type': 'comment'}]",LPP
+21-30_nokia_lumia_v3_MORE_EVERYTHING_allclusters,[],LPP
+nokia_lumia_v3_more_everything_21-30_allclusters,"[{'value': 14, 'action_type': 'like'}, {'value': 10, 'action_type': 'share'}, {'value': 17, 'action_type': 'video_view'}, {'value': 5, 'action_type': 'comment'}]",VIDEO
+cluster1_htc_one_1GB_21-30,"[{'value': 16, 'action_type': 'share'}, {'value': 5, 'action_type': 'comment'}, {'value': 18, 'action_type': 'video_view'}]",VIDEO
+htc_one_2GB_cluster1_21-30,"[{'value': 19, 'action_type': 'like'}, {'value': 18, 'action_type': 'comment'}]",VIDEO
+cluster1_21-30_htc_one_2GB_limited_time_offer,"[{'value': 4, 'action_type': 'video_view'}, {'value': 7, 'action_type': 'share'}, {'value': 4, 'action_type': 'like'}]",LPP
+21-30_cluster1_iPhone_6/6+_all_other_devices,"[{'value': 6, 'action_type': 'video_view'}, {'value': 13, 'action_type': 'like'}, {'value': 15, 'action_type': 'comment'}]",LPP
+cluster1_21-30_iphone5S,"[{'value': 7, 'action_type': 'video_view'}, {'value': 18, 'action_type': 'share'}, {'value': 16, 'action_type': 'like'}, {'value': 3, 'action_type': 'comment'}]",VIDEO
+iphone_6/6+_AT&T_21-30_cluster1,"[{'value': 17, 'action_type': 'like'}, {'value': 8, 'action_type': 'comment'}, {'value': 20, 'action_type': 'video_view'}, {'value': 17, 'action_type': 'share'}]",LPP
+cluster1_iphone_6/6+_Vzn_21-30,"[{'value': 0, 'action_type': 'comment'}, {'value': 7, 'action_type': 'like'}]",LPP
+nokia_lumia_v3_cluster1_21-30,"[{'value': 10, 'action_type': 'comment'}, {'value': 16, 'action_type': 'video_view'}, {'value': 7, 'action_type': 'like'}]",VIDEO
+21-30_cluster1_nokia_lumia_v3_MORE_EVERYTHING,"[{'value': 14, 'action_type': 'video_view'}, {'value': 7, 'action_type': 'share'}, {'value': 3, 'action_type': 'comment'}]",VIDEO
+nokia_lumia_v3_more_everything_cluster1_21-30,"[{'value': 18, 'action_type': 'comment'}, {'value': 9, 'action_type': 'like'}, {'value': 13, 'action_type': 'share'}]",LPP
+htc_one_1GB_cluster2_21-30,"[{'value': 1, 'action_type': 'like'}, {'value': 0, 'action_type': 'comment'}]",VIDEO
+cluster2_21-30_htc_one_2GB,"[{'value': 14, 'action_type': 'like'}, {'value': 3, 'action_type': 'video_view'}, {'value': 9, 'action_type': 'share'}]",VIDEO
+htc_one_2GB_limited_time_offer_cluster2_21-30,"[{'value': 9, 'action_type': 'like'}]",LPP
+iPhone_6/6+_all_other_devices_cluster2_21-30,"[{'value': 9, 'action_type': 'video_view'}, {'value': 0, 'action_type': 'share'}, {'value': 20, 'action_type': 'like'}]",VIDEO
+iphone5S_21-30_cluster2,"[{'value': 11, 'action_type': 'comment'}, {'value': 19, 'action_type': 'like'}]",LPP
+iphone_6/6+_AT&T_cluster2_21-30,"[{'value': 14, 'action_type': 'like'}, {'value': 0, 'action_type': 'comment'}]",LPP
+iphone_6/6+_Vzn_21-30_cluster2,"[{'value': 5, 'action_type': 'like'}, {'value': 6, 'action_type': 'video_view'}, {'value': 6, 'action_type': 'comment'}, {'value': 5, 'action_type': 'share'}]",VIDEO
+nokia_lumia_v3_cluster2_21-30,"[{'value': 16, 'action_type': 'video_view'}, {'value': 11, 'action_type': 'like'}, {'value': 14, 'action_type': 'share'}, {'value': 18, 'action_type': 'comment'}]",VIDEO
+nokia_lumia_v3_MORE_EVERYTHING_cluster2_21-30,"[{'value': 9, 'action_type': 'video_view'}]",LPP
+21-30_cluster2_nokia_lumia_v3_more_everything,"[{'value': 2, 'action_type': 'video_view'}]",VIDEO
+21-30_cluster3_htc_one_1GB,[],LPP
+htc_one_2GB_21-30_cluster3,"[{'value': 5, 'action_type': 'share'}]",LPP
+21-30_htc_one_2GB_limited_time_offer_cluster3,"[{'value': 3, 'action_type': 'video_view'}, {'value': 3, 'action_type': 'share'}]",LPP
+cluster3_iPhone_6/6+_all_other_devices_21-30,"[{'value': 8, 'action_type': 'like'}, {'value': 15, 'action_type': 'video_view'}, {'value': 3, 'action_type': 'share'}, {'value': 7, 'action_type': 'comment'}]",LPP
+cluster3_21-30_iphone5S,"[{'value': 15, 'action_type': 'comment'}, {'value': 3, 'action_type': 'video_view'}, {'value': 1, 'action_type': 'like'}]",LPP
+iphone_6/6+_AT&T_21-30_cluster3,"[{'value': 19, 'action_type': 'share'}, {'value': 17, 'action_type': 'comment'}, {'value': 14, 'action_type': 'like'}, {'value': 6, 'action_type': 'video_view'}]",VIDEO
+21-30_iphone_6/6+_Vzn_cluster3,[],LPP
+21-30_cluster3_nokia_lumia_v3,"[{'value': 13, 'action_type': 'video_view'}]",VIDEO
+cluster3_21-30_nokia_lumia_v3_MORE_EVERYTHING,"[{'value': 7, 'action_type': 'comment'}, {'value': 8, 'action_type': 'like'}, {'value': 1, 'action_type': 'share'}]",VIDEO
+21-30_nokia_lumia_v3_more_everything_cluster3,[],VIDEO
+htc_one_1GB_21-30_notarget,"[{'value': 16, 'action_type': 'comment'}]",VIDEO
+htc_one_2GB_21-30_notarget,[],LPP
+21-30_htc_one_2GB_limited_time_offer_notarget,"[{'value': 17, 'action_type': 'video_view'}]",VIDEO
+notarget_21-30_iPhone_6/6+_all_other_devices,"[{'value': 0, 'action_type': 'comment'}, {'value': 13, 'action_type': 'like'}, {'value': 7, 'action_type': 'video_view'}, {'value': 12, 'action_type': 'share'}]",LPP
+notarget_21-30_iphone5S,[],VIDEO
+21-30_iphone_6/6+_AT&T_notarget,"[{'value': 8, 'action_type': 'like'}, {'value': 15, 'action_type': 'video_view'}, {'value': 0, 'action_type': 'comment'}]",LPP
+notarget_iphone_6/6+_Vzn_21-30,"[{'value': 5, 'action_type': 'video_view'}, {'value': 3, 'action_type': 'comment'}, {'value': 17, 'action_type': 'share'}, {'value': 4, 'action_type': 'like'}]",LPP
+notarget_21-30_nokia_lumia_v3,"[{'value': 20, 'action_type': 'like'}]",VIDEO
+notarget_21-30_nokia_lumia_v3_MORE_EVERYTHING,"[{'value': 7, 'action_type': 'comment'}, {'value': 13, 'action_type': 'video_view'}]",VIDEO
+htc_one_1GB_allclusters_31-40,"[{'value': 7, 'action_type': 'like'}, {'value': 13, 'action_type': 'comment'}, {'value': 4, 'action_type': 'share'}, {'value': 3, 'action_type': 'video_view'}]",VIDEO
+allclusters_31-40_htc_one_2GB,"[{'value': 9, 'action_type': 'share'}, {'value': 15, 'action_type': 'video_view'}, {'value': 10, 'action_type': 'comment'}, {'value': 4, 'action_type': 'like'}]",LPP
+31-40_htc_one_2GB_limited_time_offer_allclusters,[],VIDEO
+allclusters_31-40_iPhone_6/6+_all_other_devices,"[{'value': 14, 'action_type': 'share'}]",VIDEO
+allclusters_31-40_iphone5S,"[{'value': 4, 'action_type': 'video_view'}, {'value': 14, 'action_type': 'like'}, {'value': 9, 'action_type': 'share'}, {'value': 18, 'action_type': 'comment'}]",VIDEO
+iphone_6/6+_AT&T_allclusters_31-40,"[{'value': 0, 'action_type': 'like'}, {'value': 7, 'action_type': 'comment'}, {'value': 19, 'action_type': 'share'}]",LPP
+iphone_6/6+_Vzn_allclusters_31-40,"[{'value': 20, 'action_type': 'video_view'}, {'value': 18, 'action_type': 'like'}, {'value': 4, 'action_type': 'share'}]",VIDEO
+allclusters_31-40_nokia_lumia_v3,"[{'value': 8, 'action_type': 'like'}, {'value': 11, 'action_type': 'video_view'}, {'value': 20, 'action_type': 'share'}]",LPP
+allclusters_nokia_lumia_v3_MORE_EVERYTHING_31-40,"[{'value': 11, 'action_type': 'comment'}, {'value': 3, 'action_type': 'video_view'}]",LPP
+allclusters_nokia_lumia_v3_more_everything_31-40,"[{'value': 2, 'action_type': 'share'}, {'value': 19, 'action_type': 'like'}]",VIDEO
+cluster1_htc_one_1GB_31-40,"[{'value': 16, 'action_type': 'like'}, {'value': 10, 'action_type': 'video_view'}, {'value': 4, 'action_type': 'share'}]",VIDEO
+cluster1_htc_one_2GB_31-40,[],VIDEO
+31-40_htc_one_2GB_limited_time_offer_cluster1,"[{'value': 5, 'action_type': 'like'}]",VIDEO
+iPhone_6/6+_all_other_devices_31-40_cluster1,"[{'value': 14, 'action_type': 'like'}, {'value': 13, 'action_type': 'video_view'}, {'value': 10, 'action_type': 'share'}, {'value': 18, 'action_type': 'comment'}]",VIDEO
+iphone5S_31-40_cluster1,[],VIDEO
+iphone_6/6+_AT&T_cluster1_31-40,"[{'value': 4, 'action_type': 'share'}, {'value': 0, 'action_type': 'video_view'}, {'value': 5, 'action_type': 'comment'}, {'value': 10, 'action_type': 'like'}]",LPP
+31-40_iphone_6/6+_Vzn_cluster1,"[{'value': 13, 'action_type': 'share'}, {'value': 7, 'action_type': 'comment'}]",VIDEO
+31-40_cluster1_nokia_lumia_v3,"[{'value': 16, 'action_type': 'video_view'}, {'value': 6, 'action_type': 'share'}]",LPP
+cluster1_31-40_nokia_lumia_v3_MORE_EVERYTHING,"[{'value': 19, 'action_type': 'comment'}, {'value': 6, 'action_type': 'share'}]",VIDEO
+cluster1_nokia_lumia_v3_more_everything_31-40,"[{'value': 2, 'action_type': 'comment'}, {'value': 3, 'action_type': 'video_view'}, {'value': 10, 'action_type': 'share'}]",VIDEO
+htc_one_1GB_31-40_cluster2,"[{'value': 18, 'action_type': 'share'}, {'value': 15, 'action_type': 'comment'}]",LPP
+31-40_htc_one_2GB_cluster2,"[{'value': 16, 'action_type': 'share'}, {'value': 4, 'action_type': 'comment'}, {'value': 12, 'action_type': 'video_view'}, {'value': 8, 'action_type': 'like'}]",LPP
+cluster2_htc_one_2GB_limited_time_offer_31-40,"[{'value': 6, 'action_type': 'share'}, {'value': 11, 'action_type': 'comment'}, {'value': 9, 'action_type': 'like'}]",LPP
+cluster2_31-40_iPhone_6/6+_all_other_devices,"[{'value': 8, 'action_type': 'like'}]",VIDEO
+iphone5S_31-40_cluster2,"[{'value': 6, 'action_type': 'video_view'}, {'value': 14, 'action_type': 'share'}, {'value': 14, 'action_type': 'comment'}, {'value': 2, 'action_type': 'like'}]",VIDEO
+31-40_iphone_6/6+_AT&T_cluster2,"[{'value': 10, 'action_type': 'video_view'}, {'value': 13, 'action_type': 'comment'}, {'value': 17, 'action_type': 'share'}, {'value': 3, 'action_type': 'like'}]",VIDEO
+31-40_iphone_6/6+_Vzn_cluster2,[],VIDEO
+cluster2_nokia_lumia_v3_31-40,"[{'value': 14, 'action_type': 'video_view'}]",VIDEO
+nokia_lumia_v3_MORE_EVERYTHING_cluster2_31-40,"[{'value': 8, 'action_type': 'share'}, {'value': 13, 'action_type': 'comment'}, {'value': 0, 'action_type': 'like'}, {'value': 1, 'action_type': 'video_view'}]",VIDEO
+31-40_cluster2_nokia_lumia_v3_more_everything,"[{'value': 7, 'action_type': 'video_view'}, {'value': 11, 'action_type': 'comment'}]",VIDEO
+31-40_cluster3_htc_one_1GB,"[{'value': 1, 'action_type': 'comment'}, {'value': 8, 'action_type': 'like'}, {'value': 17, 'action_type': 'share'}, {'value': 3, 'action_type': 'video_view'}]",VIDEO
+31-40_htc_one_2GB_cluster3,[],VIDEO
+31-40_cluster3_htc_one_2GB_limited_time_offer,"[{'value': 5, 'action_type': 'like'}, {'value': 12, 'action_type': 'video_view'}, {'value': 18, 'action_type': 'share'}]",LPP
+31-40_iPhone_6/6+_all_other_devices_cluster3,"[{'value': 17, 'action_type': 'video_view'}, {'value': 14, 'action_type': 'comment'}, {'value': 12, 'action_type': 'share'}]",VIDEO
+31-40_iphone5S_cluster3,[],VIDEO
+31-40_iphone_6/6+_AT&T_cluster3,"[{'value': 20, 'action_type': 'like'}]",VIDEO
+31-40_cluster3_iphone_6/6+_Vzn,"[{'value': 7, 'action_type': 'video_view'}]",VIDEO
+cluster3_31-40_nokia_lumia_v3,"[{'value': 12, 'action_type': 'share'}, {'value': 7, 'action_type': 'comment'}]",VIDEO
+nokia_lumia_v3_MORE_EVERYTHING_31-40_cluster3,"[{'value': 5, 'action_type': 'like'}, {'value': 0, 'action_type': 'comment'}, {'value': 11, 'action_type': 'share'}, {'value': 3, 'action_type': 'video_view'}]",LPP
+31-40_nokia_lumia_v3_more_everything_cluster3,"[{'value': 19, 'action_type': 'video_view'}, {'value': 10, 'action_type': 'like'}]",VIDEO
+htc_one_1GB_notarget_31-40,"[{'value': 11, 'action_type': 'comment'}, {'value': 3, 'action_type': 'like'}, {'value': 15, 'action_type': 'video_view'}, {'value': 5, 'action_type': 'share'}]",VIDEO
+htc_one_2GB_notarget_31-40,"[{'value': 11, 'action_type': 'comment'}, {'value': 10, 'action_type': 'video_view'}]",LPP
+31-40_notarget_htc_one_2GB_limited_time_offer,[],LPP
+31-40_iPhone_6/6+_all_other_devices_notarget,[],LPP
+iphone5S_notarget_31-40,[],LPP
+iphone_6/6+_AT&T_31-40_notarget,"[{'value': 0, 'action_type': 'share'}, {'value': 10, 'action_type': 'like'}, {'value': 14, 'action_type': 'comment'}, {'value': 13, 'action_type': 'video_view'}]",LPP
+iphone_6/6+_Vzn_notarget_31-40,"[{'value': 20, 'action_type': 'comment'}, {'value': 17, 'action_type': 'video_view'}]",VIDEO
+31-40_notarget_nokia_lumia_v3,"[{'value': 20, 'action_type': 'share'}]",LPP
+31-40_notarget_nokia_lumia_v3_MORE_EVERYTHING,"[{'value': 13, 'action_type': 'share'}, {'value': 1, 'action_type': 'video_view'}, {'value': 3, 'action_type': 'comment'}, {'value': 12, 'action_type': 'like'}]",LPP
+notarget_nokia_lumia_v3_more_everything_31-40,"[{'value': 9, 'action_type': 'video_view'}, {'value': 11, 'action_type': 'like'}, {'value': 7, 'action_type': 'share'}]",LPP
+41-50_htc_one_1GB_allclusters,"[{'value': 6, 'action_type': 'comment'}, {'value': 18, 'action_type': 'video_view'}, {'value': 14, 'action_type': 'like'}, {'value': 7, 'action_type': 'share'}]",LPP
+allclusters_41-50_htc_one_2GB,"[{'value': 15, 'action_type': 'like'}]",VIDEO
+allclusters_htc_one_2GB_limited_time_offer_41-50,"[{'value': 9, 'action_type': 'video_view'}, {'value': 4, 'action_type': 'share'}, {'value': 8, 'action_type': 'like'}, {'value': 9, 'action_type': 'comment'}]",LPP
+41-50_allclusters_iPhone_6/6+_all_other_devices,"[{'value': 15, 'action_type': 'comment'}, {'value': 19, 'action_type': 'video_view'}, {'value': 7, 'action_type': 'share'}, {'value': 1, 'action_type': 'like'}]",LPP
+iphone5S_allclusters_41-50,"[{'value': 5, 'action_type': 'video_view'}, {'value': 19, 'action_type': 'share'}]",VIDEO
+allclusters_41-50_iphone_6/6+_AT&T,"[{'value': 8, 'action_type': 'share'}, {'value': 17, 'action_type': 'like'}, {'value': 16, 'action_type': 'comment'}, {'value': 20, 'action_type': 'video_view'}]",LPP
+41-50_iphone_6/6+_Vzn_allclusters,[],LPP
+nokia_lumia_v3_41-50_allclusters,"[{'value': 19, 'action_type': 'like'}]",LPP
+nokia_lumia_v3_MORE_EVERYTHING_41-50_allclusters,"[{'value': 0, 'action_type': 'share'}, {'value': 5, 'action_type': 'video_view'}]",LPP
+nokia_lumia_v3_more_everything_allclusters_41-50,[],LPP
+cluster1_41-50_htc_one_1GB,"[{'value': 9, 'action_type': 'video_view'}, {'value': 14, 'action_type': 'comment'}, {'value': 17, 'action_type': 'like'}]",LPP
+cluster1_htc_one_2GB_41-50,"[{'value': 17, 'action_type': 'video_view'}, {'value': 19, 'action_type': 'share'}, {'value': 1, 'action_type': 'comment'}, {'value': 1, 'action_type': 'like'}]",VIDEO
+htc_one_2GB_limited_time_offer_cluster1_41-50,"[{'value': 16, 'action_type': 'comment'}, {'value': 2, 'action_type': 'share'}]",LPP
+iPhone_6/6+_all_other_devices_cluster1_41-50,"[{'value': 0, 'action_type': 'like'}, {'value': 12, 'action_type': 'share'}, {'value': 19, 'action_type': 'comment'}, {'value': 17, 'action_type': 'video_view'}]",VIDEO
+cluster1_41-50_iphone5S,"[{'value': 2, 'action_type': 'video_view'}, {'value': 10, 'action_type': 'share'}]",VIDEO
+cluster1_iphone_6/6+_AT&T_41-50,"[{'value': 11, 'action_type': 'video_view'}]",LPP
+41-50_iphone_6/6+_Vzn_cluster1,"[{'value': 9, 'action_type': 'share'}, {'value': 15, 'action_type': 'comment'}]",LPP
+nokia_lumia_v3_41-50_cluster1,"[{'value': 17, 'action_type': 'share'}, {'value': 5, 'action_type': 'video_view'}, {'value': 3, 'action_type': 'comment'}, {'value': 2, 'action_type': 'like'}]",VIDEO
+41-50_nokia_lumia_v3_MORE_EVERYTHING_cluster1,"[{'value': 10, 'action_type': 'comment'}, {'value': 16, 'action_type': 'like'}, {'value': 16, 'action_type': 'share'}, {'value': 12, 'action_type': 'video_view'}]",LPP
+nokia_lumia_v3_more_everything_41-50_cluster1,"[{'value': 0, 'action_type': 'share'}]",VIDEO
+cluster2_htc_one_2GB_41-50,"[{'value': 15, 'action_type': 'comment'}, {'value': 18, 'action_type': 'share'}]",VIDEO
+htc_one_2GB_limited_time_offer_cluster2_41-50,[],VIDEO
+41-50_cluster2_iPhone_6/6+_all_other_devices,"[{'value': 0, 'action_type': 'like'}, {'value': 1, 'action_type': 'comment'}, {'value': 9, 'action_type': 'video_view'}]",VIDEO
+cluster2_iphone5S_41-50,[],VIDEO
+41-50_iphone_6/6+_AT&T_cluster2,"[{'value': 7, 'action_type': 'share'}, {'value': 3, 'action_type': 'like'}]",VIDEO
+iphone_6/6+_Vzn_cluster2_41-50,"[{'value': 7, 'action_type': 'video_view'}, {'value': 12, 'action_type': 'like'}, {'value': 8, 'action_type': 'comment'}, {'value': 7, 'action_type': 'share'}]",VIDEO
+nokia_lumia_v3_41-50_cluster2,"[{'value': 14, 'action_type': 'comment'}]",VIDEO
+nokia_lumia_v3_MORE_EVERYTHING_cluster2_41-50,"[{'value': 14, 'action_type': 'video_view'}]",LPP
+41-50_cluster2_nokia_lumia_v3_more_everything,"[{'value': 11, 'action_type': 'share'}]",VIDEO
+htc_one_1GB_41-50_cluster3,[],LPP
+cluster3_41-50_htc_one_2GB,"[{'value': 19, 'action_type': 'video_view'}, {'value': 1, 'action_type': 'like'}, {'value': 14, 'action_type': 'share'}]",LPP
+41-50_cluster3_htc_one_2GB_limited_time_offer,"[{'value': 2, 'action_type': 'comment'}, {'value': 8, 'action_type': 'share'}, {'value': 8, 'action_type': 'video_view'}, {'value': 6, 'action_type': 'like'}]",VIDEO
+cluster3_iPhone_6/6+_all_other_devices_41-50,"[{'value': 12, 'action_type': 'comment'}, {'value': 7, 'action_type': 'video_view'}, {'value': 0, 'action_type': 'share'}]",LPP
+iphone5S_cluster3_41-50,[],VIDEO
+cluster3_41-50_iphone_6/6+_AT&T,"[{'value': 7, 'action_type': 'share'}, {'value': 19, 'action_type': 'video_view'}]",VIDEO
+41-50_iphone_6/6+_Vzn_cluster3,"[{'value': 13, 'action_type': 'comment'}, {'value': 0, 'action_type': 'like'}]",VIDEO
+cluster3_41-50_nokia_lumia_v3_MORE_EVERYTHING,"[{'value': 7, 'action_type': 'video_view'}, {'value': 2, 'action_type': 'comment'}, {'value': 2, 'action_type': 'share'}, {'value': 7, 'action_type': 'like'}]",VIDEO
+cluster3_nokia_lumia_v3_more_everything_41-50,"[{'value': 0, 'action_type': 'like'}]",LPP
+notarget_41-50_htc_one_1GB,"[{'value': 10, 'action_type': 'like'}, {'value': 7, 'action_type': 'comment'}, {'value': 12, 'action_type': 'video_view'}, {'value': 10, 'action_type': 'share'}]",LPP
+notarget_41-50_htc_one_2GB,"[{'value': 20, 'action_type': 'share'}]",LPP
+notarget_htc_one_2GB_limited_time_offer_41-50,"[{'value': 0, 'action_type': 'video_view'}, {'value': 7, 'action_type': 'share'}]",LPP
+iPhone_6/6+_all_other_devices_41-50_notarget,"[{'value': 12, 'action_type': 'share'}]",VIDEO
+notarget_41-50_iphone5S,"[{'value': 5, 'action_type': 'like'}, {'value': 10, 'action_type': 'share'}, {'value': 8, 'action_type': 'comment'}]",LPP
+iphone_6/6+_AT&T_41-50_notarget,"[{'value': 1, 'action_type': 'like'}, {'value': 18, 'action_type': 'video_view'}]",VIDEO
+notarget_41-50_iphone_6/6+_Vzn,[],VIDEO
+notarget_nokia_lumia_v3_41-50,[],LPP
+notarget_nokia_lumia_v3_MORE_EVERYTHING_41-50,"[{'value': 18, 'action_type': 'video_view'}, {'value': 17, 'action_type': 'comment'}, {'value': 14, 'action_type': 'share'}, {'value': 0, 'action_type': 'like'}]",LPP
+notarget_41-50_nokia_lumia_v3_more_everything,"[{'value': 17, 'action_type': 'like'}]",LPP
+allclusters_51+_htc_one_1GB,"[{'value': 2, 'action_type': 'comment'}, {'value': 20, 'action_type': 'like'}, {'value': 20, 'action_type': 'share'}]",VIDEO
+allclusters_htc_one_2GB_51+,"[{'value': 4, 'action_type': 'video_view'}, {'value': 19, 'action_type': 'comment'}]",LPP
+51+_htc_one_2GB_limited_time_offer_allclusters,[],LPP
+iPhone_6/6+_all_other_devices_51+_allclusters,"[{'value': 4, 'action_type': 'share'}]",LPP
+51+_allclusters_iphone5S,"[{'value': 5, 'action_type': 'video_view'}, {'value': 15, 'action_type': 'like'}, {'value': 7, 'action_type': 'comment'}]",LPP
+allclusters_iphone_6/6+_AT&T_51+,"[{'value': 4, 'action_type': 'share'}, {'value': 1, 'action_type': 'comment'}]",VIDEO
+51+_allclusters_iphone_6/6+_Vzn,[],VIDEO
+51+_nokia_lumia_v3_allclusters,"[{'value': 2, 'action_type': 'video_view'}, {'value': 16, 'action_type': 'like'}, {'value': 5, 'action_type': 'comment'}, {'value': 15, 'action_type': 'share'}]",LPP
+51+_allclusters_nokia_lumia_v3_MORE_EVERYTHING,"[{'value': 16, 'action_type': 'share'}, {'value': 13, 'action_type': 'like'}, {'value': 8, 'action_type': 'comment'}, {'value': 8, 'action_type': 'video_view'}]",VIDEO
+51+_nokia_lumia_v3_more_everything_allclusters,"[{'value': 19, 'action_type': 'like'}]",VIDEO
+51+_htc_one_1GB_cluster1,[],LPP
+cluster1_51+_htc_one_2GB,"[{'value': 15, 'action_type': 'comment'}, {'value': 17, 'action_type': 'like'}]",VIDEO
+51+_cluster1_htc_one_2GB_limited_time_offer,"[{'value': 9, 'action_type': 'share'}]",LPP
+51+_cluster1_iPhone_6/6+_all_other_devices,[],LPP
+51+_iphone5S_cluster1,"[{'value': 7, 'action_type': 'share'}]",LPP
+51+_iphone_6/6+_AT&T_cluster1,"[{'value': 16, 'action_type': 'share'}, {'value': 10, 'action_type': 'video_view'}, {'value': 11, 'action_type': 'like'}, {'value': 13, 'action_type': 'comment'}]",VIDEO
+51+_iphone_6/6+_Vzn_cluster1,"[{'value': 12, 'action_type': 'share'}]",VIDEO
+51+_nokia_lumia_v3_cluster1,"[{'value': 19, 'action_type': 'video_view'}, {'value': 10, 'action_type': 'comment'}, {'value': 17, 'action_type': 'share'}]",VIDEO
+cluster1_51+_nokia_lumia_v3_MORE_EVERYTHING,"[{'value': 15, 'action_type': 'comment'}, {'value': 2, 'action_type': 'share'}, {'value': 1, 'action_type': 'like'}]",LPP
+nokia_lumia_v3_more_everything_cluster1_51+,"[{'value': 6, 'action_type': 'like'}, {'value': 9, 'action_type': 'video_view'}]",LPP
+htc_one_1GB_51+_cluster2,"[{'value': 1, 'action_type': 'comment'}, {'value': 6, 'action_type': 'video_view'}]",LPP
+cluster2_htc_one_2GB_51+,"[{'value': 7, 'action_type': 'share'}]",VIDEO
+htc_one_2GB_limited_time_offer_51+_cluster2,[],VIDEO
+51+_iPhone_6/6+_all_other_devices_cluster2,"[{'value': 7, 'action_type': 'like'}]",VIDEO
+cluster2_51+_iphone5S,"[{'value': 12, 'action_type': 'video_view'}, {'value': 9, 'action_type': 'like'}, {'value': 8, 'action_type': 'share'}]",VIDEO
+cluster2_51+_iphone_6/6+_AT&T,"[{'value': 19, 'action_type': 'share'}, {'value': 12, 'action_type': 'video_view'}, {'value': 13, 'action_type': 'like'}, {'value': 8, 'action_type': 'comment'}]",LPP
+51+_iphone_6/6+_Vzn_cluster2,"[{'value': 5, 'action_type': 'like'}]",VIDEO
+51+_nokia_lumia_v3_cluster2,"[{'value': 4, 'action_type': 'comment'}, {'value': 4, 'action_type': 'share'}, {'value': 9, 'action_type': 'video_view'}, {'value': 10, 'action_type': 'like'}]",LPP
+51+_cluster2_nokia_lumia_v3_MORE_EVERYTHING,"[{'value': 11, 'action_type': 'like'}, {'value': 16, 'action_type': 'comment'}, {'value': 16, 'action_type': 'share'}]",VIDEO
+51+_cluster2_nokia_lumia_v3_more_everything,"[{'value': 12, 'action_type': 'share'}, {'value': 11, 'action_type': 'video_view'}]",VIDEO
+51+_cluster3_htc_one_1GB,[],LPP
+htc_one_2GB_51+_cluster3,[],LPP
+51+_htc_one_2GB_limited_time_offer_cluster3,"[{'value': 7, 'action_type': 'comment'}, {'value': 8, 'action_type': 'share'}, {'value': 9, 'action_type': 'video_view'}, {'value': 2, 'action_type': 'like'}]",VIDEO
+cluster3_iPhone_6/6+_all_other_devices_51+,"[{'value': 0, 'action_type': 'video_view'}, {'value': 5, 'action_type': 'share'}, {'value': 8, 'action_type': 'like'}, {'value': 18, 'action_type': 'comment'}]",VIDEO
+iphone5S_51+_cluster3,[],VIDEO
+51+_cluster3_iphone_6/6+_AT&T,"[{'value': 8, 'action_type': 'video_view'}, {'value': 18, 'action_type': 'like'}]",VIDEO
+51+_iphone_6/6+_Vzn_cluster3,[],LPP
+cluster3_nokia_lumia_v3_51+,"[{'value': 8, 'action_type': 'share'}, {'value': 8, 'action_type': 'video_view'}, {'value': 15, 'action_type': 'like'}]",LPP
+51+_cluster3_nokia_lumia_v3_MORE_EVERYTHING,[],VIDEO
+cluster3_51+_nokia_lumia_v3_more_everything,"[{'value': 6, 'action_type': 'share'}]",LPP
+51+_htc_one_1GB_notarget,"[{'value': 18, 'action_type': 'comment'}, {'value': 17, 'action_type': 'video_view'}, {'value': 15, 'action_type': 'share'}]",VIDEO
+notarget_htc_one_2GB_51+,"[{'value': 9, 'action_type': 'comment'}]",VIDEO
+notarget_htc_one_2GB_limited_time_offer_51+,"[{'value': 4, 'action_type': 'like'}, {'value': 12, 'action_type': 'comment'}]",VIDEO
+iPhone_6/6+_all_other_devices_notarget_51+,"[{'value': 10, 'action_type': 'video_view'}]",LPP
+notarget_iphone5S_51+,"[{'value': 8, 'action_type': 'video_view'}]",LPP
+notarget_51+_iphone_6/6+_AT&T,[],VIDEO
+51+_notarget_iphone_6/6+_Vzn,"[{'value': 4, 'action_type': 'like'}]",VIDEO
+notarget_nokia_lumia_v3_51+,"[{'value': 12, 'action_type': 'share'}, {'value': 9, 'action_type': 'video_view'}, {'value': 14, 'action_type': 'comment'}]",VIDEO
+notarget_51+_nokia_lumia_v3_MORE_EVERYTHING,"[{'value': 10, 'action_type': 'video_view'}, {'value': 0, 'action_type': 'share'}]",VIDEO
+nokia_lumia_v3_more_everything_51+_notarget,[],VIDEO
+<21_htc_one_1GB_allclusters,[],VIDEO
+htc_one_2GB_allclusters_<21,"[{'value': 5, 'action_type': 'like'}]",VIDEO
+htc_one_2GB_limited_time_offer_allclusters_<21,"[{'value': 14, 'action_type': 'share'}, {'value': 1, 'action_type': 'comment'}, {'value': 11, 'action_type': 'like'}]",VIDEO
+<21_allclusters_iPhone_6/6+_all_other_devices,"[{'value': 0, 'action_type': 'video_view'}, {'value': 7, 'action_type': 'comment'}]",LPP
+allclusters_<21_iphone5S,"[{'value': 3, 'action_type': 'video_view'}, {'value': 18, 'action_type': 'comment'}, {'value': 9, 'action_type': 'share'}]",LPP
+allclusters_<21_iphone_6/6+_AT&T,[],VIDEO
+<21_allclusters_iphone_6/6+_Vzn,"[{'value': 0, 'action_type': 'like'}, {'value': 19, 'action_type': 'comment'}, {'value': 2, 'action_type': 'share'}]",LPP
+allclusters_nokia_lumia_v3_<21,"[{'value': 2, 'action_type': 'comment'}, {'value': 0, 'action_type': 'share'}]",VIDEO
+allclusters_<21_nokia_lumia_v3_MORE_EVERYTHING,"[{'value': 9, 'action_type': 'comment'}, {'value': 15, 'action_type': 'video_view'}, {'value': 13, 'action_type': 'share'}, {'value': 18, 'action_type': 'like'}]",VIDEO
+nokia_lumia_v3_more_everything_<21_allclusters,"[{'value': 1, 'action_type': 'comment'}]",VIDEO
+<21_htc_one_1GB_cluster1,"[{'value': 4, 'action_type': 'video_view'}, {'value': 9, 'action_type': 'share'}, {'value': 1, 'action_type': 'comment'}, {'value': 6, 'action_type': 'like'}]",VIDEO
+cluster1_<21_htc_one_2GB,"[{'value': 14, 'action_type': 'comment'}, {'value': 18, 'action_type': 'video_view'}]",VIDEO
+cluster1_htc_one_2GB_limited_time_offer_<21,"[{'value': 18, 'action_type': 'share'}, {'value': 11, 'action_type': 'like'}]",LPP
+cluster1_<21_iPhone_6/6+_all_other_devices,[],VIDEO
+<21_iphone5S_cluster1,"[{'value': 17, 'action_type': 'comment'}]",LPP
+<21_iphone_6/6+_AT&T_cluster1,"[{'value': 9, 'action_type': 'like'}]",LPP
+iphone_6/6+_Vzn_cluster1_<21,"[{'value': 6, 'action_type': 'comment'}, {'value': 12, 'action_type': 'video_view'}]",VIDEO
+nokia_lumia_v3_cluster1_<21,[],VIDEO
+<21_nokia_lumia_v3_MORE_EVERYTHING_cluster1,"[{'value': 13, 'action_type': 'like'}, {'value': 2, 'action_type': 'comment'}]",LPP
+<21_nokia_lumia_v3_more_everything_cluster1,[],VIDEO
+htc_one_1GB_<21_cluster2,"[{'value': 9, 'action_type': 'like'}]",VIDEO
+cluster2_htc_one_2GB_<21,"[{'value': 13, 'action_type': 'share'}, {'value': 14, 'action_type': 'like'}]",LPP
+cluster2_htc_one_2GB_limited_time_offer_<21,"[{'value': 3, 'action_type': 'like'}, {'value': 1, 'action_type': 'video_view'}, {'value': 5, 'action_type': 'share'}]",LPP
+iPhone_6/6+_all_other_devices_<21_cluster2,"[{'value': 20, 'action_type': 'video_view'}, {'value': 2, 'action_type': 'share'}, {'value': 0, 'action_type': 'comment'}]",LPP
+iphone5S_<21_cluster2,"[{'value': 15, 'action_type': 'share'}, {'value': 10, 'action_type': 'video_view'}, {'value': 7, 'action_type': 'like'}]",LPP
+<21_cluster2_iphone_6/6+_AT&T,"[{'value': 20, 'action_type': 'comment'}, {'value': 15, 'action_type': 'like'}, {'value': 18, 'action_type': 'share'}]",LPP
+cluster2_iphone_6/6+_Vzn_<21,"[{'value': 3, 'action_type': 'comment'}, {'value': 14, 'action_type': 'like'}]",LPP
+cluster2_nokia_lumia_v3_<21,"[{'value': 7, 'action_type': 'comment'}, {'value': 3, 'action_type': 'video_view'}]",LPP
+nokia_lumia_v3_MORE_EVERYTHING_<21_cluster2,"[{'value': 5, 'action_type': 'video_view'}, {'value': 1, 'action_type': 'like'}]",VIDEO
+cluster2_nokia_lumia_v3_more_everything_<21,"[{'value': 9, 'action_type': 'share'}, {'value': 8, 'action_type': 'video_view'}, {'value': 13, 'action_type': 'comment'}, {'value': 18, 'action_type': 'like'}]",LPP
+<21_cluster3_htc_one_1GB,"[{'value': 14, 'action_type': 'like'}]",LPP
+cluster3_<21_htc_one_2GB,[],LPP
+<21_cluster3_htc_one_2GB_limited_time_offer,"[{'value': 16, 'action_type': 'comment'}]",LPP
+<21_iPhone_6/6+_all_other_devices_cluster3,[],VIDEO
+iphone5S_cluster3_<21,"[{'value': 6, 'action_type': 'share'}]",LPP
+<21_cluster3_iphone_6/6+_AT&T,"[{'value': 3, 'action_type': 'video_view'}, {'value': 2, 'action_type': 'like'}]",LPP
+cluster3_iphone_6/6+_Vzn_<21,"[{'value': 9, 'action_type': 'video_view'}, {'value': 10, 'action_type': 'share'}, {'value': 6, 'action_type': 'like'}, {'value': 5, 'action_type': 'comment'}]",VIDEO
+<21_cluster3_nokia_lumia_v3,"[{'value': 10, 'action_type': 'share'}, {'value': 13, 'action_type': 'video_view'}, {'value': 16, 'action_type': 'comment'}]",LPP
+cluster3_<21_nokia_lumia_v3_MORE_EVERYTHING,"[{'value': 19, 'action_type': 'share'}, {'value': 16, 'action_type': 'comment'}]",VIDEO
+nokia_lumia_v3_more_everything_cluster3_<21,[],VIDEO
+htc_one_1GB_<21_notarget,"[{'value': 18, 'action_type': 'comment'}, {'value': 19, 'action_type': 'video_view'}, {'value': 10, 'action_type': 'like'}, {'value': 19, 'action_type': 'share'}]",VIDEO
+<21_htc_one_2GB_notarget,"[{'value': 9, 'action_type': 'comment'}, {'value': 7, 'action_type': 'share'}, {'value': 7, 'action_type': 'like'}]",VIDEO
+notarget_<21_htc_one_2GB_limited_time_offer,"[{'value': 11, 'action_type': 'like'}]",VIDEO
+iPhone_6/6+_all_other_devices_<21_notarget,"[{'value': 19, 'action_type': 'like'}, {'value': 3, 'action_type': 'comment'}, {'value': 5, 'action_type': 'share'}]",VIDEO
+<21_notarget_iphone5S,"[{'value': 10, 'action_type': 'comment'}, {'value': 18, 'action_type': 'video_view'}]",LPP
+<21_iphone_6/6+_AT&T_notarget,[],LPP
+iphone_6/6+_Vzn_<21_notarget,"[{'value': 15, 'action_type': 'share'}, {'value': 12, 'action_type': 'video_view'}, {'value': 6, 'action_type': 'like'}]",VIDEO
+notarget_<21_nokia_lumia_v3,"[{'value': 9, 'action_type': 'share'}, {'value': 3, 'action_type': 'like'}]",LPP
+nokia_lumia_v3_MORE_EVERYTHING_<21_notarget,"[{'value': 2, 'action_type': 'share'}, {'value': 19, 'action_type': 'comment'}, {'value': 4, 'action_type': 'like'}, {'value': 13, 'action_type': 'video_view'}]",LPP
